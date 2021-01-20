@@ -1,0 +1,8 @@
+server:
+  port: 8001
+## 配置用户名和密码
+#spring:
+#  security:
+#    user:
+#      name: warning
+#      password: 123456
